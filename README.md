@@ -1,14 +1,4 @@
-<h1 align="center">Hi 👋, Developer's</h1>
-<h3 align="center">Best Team 🏆</h3>
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-
-<h3 align="left" font="40px">Group Project by:</h3>
-
-- 🤝  **Benson**  [![GitHub Benson](https://img.shields.io/github/followers/benchimnonso?&style=social)](https://github.com/benchimnonso) 
-
-- 🤝  **ZILLEALI**  [![GitHub ZILL E ALI](https://img.shields.io/github/followers/zilleali?label=follow&style=social)](https://github.com/zilleali)
+Group Project by Benson and Zille:
 
 I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life
 Write a function that produces output according to a format.
@@ -25,7 +15,7 @@ Handle the following conversion specifiers:
 Nothing in fine print is ever good news
 Use a local buffer of 1024 chars in order to call write as little as possible.
 
---My weakness is wearing too much leopard print
+My weakness is wearing too much leopard print
 Handle the following custom conversion specifier:
 
 How is the world ruled and led to war? Diplomats lie to journalists and believe t hese lies when they see them in print
@@ -60,7 +50,3 @@ The flood of print has turned reading into a process of gulping rather than savo
 Handle the following custom conversion specifier:
 
 All the above options work well together.
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
----
